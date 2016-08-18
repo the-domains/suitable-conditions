@@ -1,39 +1,39 @@
-favicon: null
-name: Suitable Conditions
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3987170858308673
   brandStrength: 0.8085852453950793
-  lightness: 0.348558709025383
+  rhythmicContrast: 0.7644613550510257
   brandColors:
     - '#17181D'
     - '#C7CFE2'
     - '#A39091'
     - '#776467'
-  rhythmicContrast: 0.7644613550510257
-typography_spectrum: 0.7042553
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.348558709025383
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Suitable Conditions
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5255319
+layout_spectrum: 1
